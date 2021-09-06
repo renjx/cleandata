@@ -19,7 +19,7 @@ oracle 官网下载 [JDK1.8](https://download.oracle.com/otn/java/jdk/8u301-b09/
 
 把Kettle软件包解压，然后执行里面的Spoon.bat，出现如图所示界面即表示安装成功。
 
-![1.startspoon.png](images/1.startspoon.png)
+![1.startspoon.png](/images/1.startspoon.png)
 
 
 
